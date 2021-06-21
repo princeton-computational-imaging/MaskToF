@@ -1,0 +1,6 @@
+imageio>=2.9.0
+h5py>=2.10.0
+numpy>=1.20.3
+torch>=1.7.0
+torchision>=0.10.0
+scipy>=1.6.3
