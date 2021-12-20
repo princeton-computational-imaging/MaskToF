@@ -12,7 +12,7 @@ journal={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 year={2021}
 }
 ```
-### Prerequisites:  
+### Requirements:  
 * Developed using PyTorch 1.7.0 on Ubuntu x64 machine
 * Condensed requirements in `/requirements.txt`
 * Full frozen environment can be found in `/conda_env.txt`, but many of these libraries are not necessary to run this code
